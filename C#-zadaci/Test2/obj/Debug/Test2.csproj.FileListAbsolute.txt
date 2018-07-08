@@ -1,0 +1,7 @@
+D:\QA KURS\vezbanje\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\Test2\bin\Debug\Test2.exe.config
+D:\QA KURS\vezbanje\Test2\bin\Debug\Test2.exe
+D:\QA KURS\vezbanje\Test2\bin\Debug\Test2.pdb
+D:\QA KURS\vezbanje\Test2\obj\Debug\Test2.exe
+D:\QA KURS\vezbanje\Test2\obj\Debug\Test2.pdb

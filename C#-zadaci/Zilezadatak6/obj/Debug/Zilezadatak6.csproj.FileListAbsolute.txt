@@ -1,0 +1,7 @@
+D:\QA KURS\vezbanje\Zilezadatak6\obj\Debug\Zilezadatak6.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\Zilezadatak6\obj\Debug\Zilezadatak6.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\Zilezadatak6\bin\Debug\Zilezadatak6.exe.config
+D:\QA KURS\vezbanje\Zilezadatak6\bin\Debug\Zilezadatak6.exe
+D:\QA KURS\vezbanje\Zilezadatak6\bin\Debug\Zilezadatak6.pdb
+D:\QA KURS\vezbanje\Zilezadatak6\obj\Debug\Zilezadatak6.exe
+D:\QA KURS\vezbanje\Zilezadatak6\obj\Debug\Zilezadatak6.pdb

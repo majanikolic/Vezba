@@ -1,0 +1,7 @@
+D:\QA KURS\vezbanje\pr_petlje\bin\Debug\pr_petlje.exe.config
+D:\QA KURS\vezbanje\pr_petlje\bin\Debug\pr_petlje.exe
+D:\QA KURS\vezbanje\pr_petlje\bin\Debug\pr_petlje.pdb
+D:\QA KURS\vezbanje\pr_petlje\obj\Debug\pr_petlje.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\pr_petlje\obj\Debug\pr_petlje.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\pr_petlje\obj\Debug\pr_petlje.exe
+D:\QA KURS\vezbanje\pr_petlje\obj\Debug\pr_petlje.pdb

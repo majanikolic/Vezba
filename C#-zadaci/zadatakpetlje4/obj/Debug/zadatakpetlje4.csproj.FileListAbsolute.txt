@@ -1,0 +1,7 @@
+D:\QA KURS\vezbanje\zadatakpetlje4\bin\Debug\zadatakpetlje4.exe.config
+D:\QA KURS\vezbanje\zadatakpetlje4\bin\Debug\zadatakpetlje4.exe
+D:\QA KURS\vezbanje\zadatakpetlje4\bin\Debug\zadatakpetlje4.pdb
+D:\QA KURS\vezbanje\zadatakpetlje4\obj\Debug\zadatakpetlje4.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\zadatakpetlje4\obj\Debug\zadatakpetlje4.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\zadatakpetlje4\obj\Debug\zadatakpetlje4.exe
+D:\QA KURS\vezbanje\zadatakpetlje4\obj\Debug\zadatakpetlje4.pdb

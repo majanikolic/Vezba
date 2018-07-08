@@ -1,0 +1,160 @@
+<!DOCTYPE html> 
+
+<html>
+<head>
+<title>Zadatak 3-registracija
+</title>
+<style type="text/css">
+a:link {color:green;}
+a:visited {color:#ff3300;}
+a:activ {color:red;}
+a:hover {color:pink;}
+
+body {background-color: #99ffcc;}
+
+#reg {color:#0000ff; font-size:20px; background-color:#ffff66;}
+	 
+
+	#prezime2 { color:red;
+	}
+
+	#a {
+    text-transform: uppercase;
+}
+</style>
+
+<meta charset="utf-8">
+</head>
+
+<body> 
+<a href="zadatak2.html">Pređi na drugu stranu</a><br><br>
+<a href="zadatak1.html">Pređi na prvu stranu</a><br><br>
+ <a href="zadatak4.html">Pređi na cetvrtu stranu</a><br><br>
+ <a href="zadatak5.html">Pređi na petu stranu</a><br><br>
+
+
+ <center>
+ 
+ <form name="mojaforma" action="proba" method="GET">
+		<div id="reg">
+		
+<fieldset>
+			<legend>
+				<div id="a">Registruj se</div>
+			</legend>
+			
+	<table border="1">
+
+
+
+	<tr>
+		<td>Ime:</td>
+		<td><input type="text" id="ime" name="ime"></td>
+	
+	</tr>
+
+
+	<tr>
+		<td>Prezime:</td>
+		<td><input type="text" id="prezime" name="prezime"></div></td>
+	</tr>
+
+	<tr>
+	
+<div id="reg1">
+<br><br>
+		<td>Lozinka:</td>
+		<td><input type="password" id="sifra" maxlength="8"></td>
+	</tr>
+<!-- input za radio-->
+
+    <tr>
+	
+		<td>Pol:</td>
+	
+	
+		<td>
+				
+				
+				<input type="radio" id="muski" name="pol">M
+				<input type="radio" id="zenski" name="pol" >Ž
+		
+		
+		<td>
+		
+	</tr>
+	
+	<tr>
+		<td>Država rođenja:</td>
+		<td><select>
+		<option>Srbija</option>
+		<option selected>Madjarska</option>
+		<option selected>Francuska</option>
+		<option>Njemacka</option>
+		</select>
+		</td>
+	</tr>
+
+
+	<tr>
+	<td>Da li se pristajete da sačuvamo podatke?</td>
+	<td><input type="checkbox" id="da"></td>
+
+	</tr>
+	
+	<tr>
+	<td>Jezik na kom cete polagati ispit:
+	</td>
+	
+	<td>	
+		<select  size="5" multiple>
+		<option>Njemacki</option>
+		<option>Francuski</option>
+		<option>Grčki</option>
+		<option>Engleski</option>
+		<option>Kineski</option>
+		<option>Bugarski</option>
+		</select>
+	</td>	
+	</tr>
+	
+<p>	
+	<tr>
+			<td colspan="2">Komentar:	
+			<textarea id="porukica" cols="40" rows="6" >tekst</textarea></p>
+	</td>
+	</tr>
+
+	
+	<tr>
+		<td align="center" colspan="2">
+		
+	<input type="submit" value="Prihvatam">
+	<input type="reset" value="Resetuj">
+		</td>
+	</tr>
+</fieldset>
+</p>
+
+
+</table>
+
+</form>
+
+</center>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

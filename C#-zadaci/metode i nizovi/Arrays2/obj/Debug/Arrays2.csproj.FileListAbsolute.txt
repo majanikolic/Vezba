@@ -1,0 +1,7 @@
+D:\QA KURS\vezbanje\Arrays2\obj\Debug\Arrays2.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\Arrays2\obj\Debug\Arrays2.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\Arrays2\bin\Debug\Arrays2.exe.config
+D:\QA KURS\vezbanje\Arrays2\bin\Debug\Arrays2.exe
+D:\QA KURS\vezbanje\Arrays2\bin\Debug\Arrays2.pdb
+D:\QA KURS\vezbanje\Arrays2\obj\Debug\Arrays2.exe
+D:\QA KURS\vezbanje\Arrays2\obj\Debug\Arrays2.pdb

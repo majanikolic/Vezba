@@ -1,0 +1,7 @@
+D:\QA KURS\vezbanje\metodezad3\obj\Debug\metodezad3.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\metodezad3\obj\Debug\metodezad3.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\metodezad3\bin\Debug\metodezad3.exe.config
+D:\QA KURS\vezbanje\metodezad3\bin\Debug\metodezad3.exe
+D:\QA KURS\vezbanje\metodezad3\bin\Debug\metodezad3.pdb
+D:\QA KURS\vezbanje\metodezad3\obj\Debug\metodezad3.exe
+D:\QA KURS\vezbanje\metodezad3\obj\Debug\metodezad3.pdb

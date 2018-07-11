@@ -1,0 +1,14 @@
+D:\QA KURS\vezbanje\Arrays1\bin\Debug\Arrays1.exe.config
+D:\QA KURS\vezbanje\Arrays1\bin\Debug\Arrays1.exe
+D:\QA KURS\vezbanje\Arrays1\bin\Debug\Arrays1.pdb
+D:\QA KURS\vezbanje\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\Arrays1\obj\Debug\Arrays1.exe
+D:\QA KURS\vezbanje\Arrays1\obj\Debug\Arrays1.pdb
+C:\Users\MajaNikolic\Desktop\metode i nizovi\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\MajaNikolic\Desktop\metode i nizovi\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\MajaNikolic\Desktop\metode i nizovi\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\MajaNikolic\Desktop\metode i nizovi\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+C:\Users\MajaNikolic\Desktop\metode i nizovi\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\MajaNikolic\Desktop\metode i nizovi\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\MajaNikolic\Desktop\metode i nizovi\Arrays1\obj\Debug\Arrays1.pdb

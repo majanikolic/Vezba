@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodezad6", "metodezad6.csproj", "{36488FB1-AF2A-46F0-8C2E-2588C30BD8D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36488FB1-AF2A-46F0-8C2E-2588C30BD8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36488FB1-AF2A-46F0-8C2E-2588C30BD8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36488FB1-AF2A-46F0-8C2E-2588C30BD8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36488FB1-AF2A-46F0-8C2E-2588C30BD8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A6C609-5EB6-40B6-90FE-1F43830209FD}
+	EndGlobalSection
+EndGlobal

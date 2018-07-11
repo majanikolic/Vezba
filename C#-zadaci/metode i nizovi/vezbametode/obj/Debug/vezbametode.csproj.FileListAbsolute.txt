@@ -1,0 +1,7 @@
+D:\QA KURS\vezbanje\vezbametode\obj\Debug\vezbametode.csprojAssemblyReference.cache
+D:\QA KURS\vezbanje\vezbametode\obj\Debug\vezbametode.csproj.CoreCompileInputs.cache
+D:\QA KURS\vezbanje\vezbametode\bin\Debug\vezbametode.exe.config
+D:\QA KURS\vezbanje\vezbametode\bin\Debug\vezbametode.exe
+D:\QA KURS\vezbanje\vezbametode\bin\Debug\vezbametode.pdb
+D:\QA KURS\vezbanje\vezbametode\obj\Debug\vezbametode.exe
+D:\QA KURS\vezbanje\vezbametode\obj\Debug\vezbametode.pdb
